@@ -1,0 +1,1 @@
+Crie um programa que calcule o IMC de uma pessoa e de a classificação ao final da execução do script.
